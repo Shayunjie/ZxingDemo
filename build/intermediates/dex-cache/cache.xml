@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bin/ZxingDemo/app/libs/okhttp-2.7.5.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/okhttp-2.7.5_184500887977c315babcc036b7f228dd78c4b845.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_fa2d88d62e78db82f8794bc3ac77114252e9936a.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_e356ed86669891e0abe4513bb4cd66105c376cf0.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_ead50ce682dbdae4ff9d84becbe02fc498624da9.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_047eb0d61957dd077a37da304d12852ab453c746.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4176e183a64a408fb919cc596f59d053b688dd0a">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/instant-run_dc9f9aeb634772571d53bb17a3087954d81d3c86.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_eee45b7e0d08c78e2ff471592e8325d1424074f5.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a6da71d84537a75ff29338e58c3ee73f85bd4970.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="236dc8c0c237852e64416dc1b88855c3bed0a813">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/instant-run_b193eef0c105f9e4005615ca2955a9de809a4735.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_07fde25f2ceefdae39ab6ccde166b81d77a01626.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_83225a0e2ba06227b23203d2314d7dc700e3c549.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/libs/core-3.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/core-3.0.0_c8347bc3ddaa347d97e25d6423f9f9beecc707ec.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="adfb25796e3b28fd26e71dd3d446b5ab67774d49">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5959cfaf6e59c98c87237763244d749379302fc5.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5da5cdaa99291727c412c1600aa602465d568f9a">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_a1064f98d4cf922fa28d0d907ebc782493f43785.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/libs/core-3.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/core-3.0.0_0636b39ab0ef95bd12d8c34b7b8e83a50a25ba24.jar" />
+    </item>
+    <item
+        jar="/home/bin/Develop/sdk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_49dbf97fe6bc5fc4e8d780754384613973b50c74.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_72144d5778f9bf21c661ef387a4b0385bce2955b.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_9b176425735af779fdb911003cd6061b2f34668c.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_17fdc47be121a5edb90cd9fb60dad2f6b6ba51ce.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_ff59ad1815abf307e6d2620c0c32d6f5d093af18.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/libs/okio-1.10.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c4b316c469df09d8b5b173def1dfd79881a38310">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/okio-1.10.0_dd54796e00fc721989b720faa2592a9007f7e0e2.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/libs/okio-1.10.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c4b316c469df09d8b5b173def1dfd79881a38310">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/okio-1.10.0_4a3aa829fb52bd0a01de4a7f7d41217e0a83fd3e.jar" />
+    </item>
+    <item
+        jar="/home/bin/ZxingDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/bin/ZxingDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_eb7ccc30b8a55e2397393a6e4d21f25f362c3190.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_1ff968a43f8617d7525f5c5e02283d262a386e3d.jar" />
+    </item>
+    <item
+        jar="/home/bin/Downloads/ZXingDemo1/app/libs/okhttp-2.7.5.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/home/bin/Downloads/ZXingDemo1/app/build/intermediates/pre-dexed/debug/okhttp-2.7.5_68023100c43408634af3de464f73f6f3d6dcb1f4.jar" />
+    </item>
+
+</items>
